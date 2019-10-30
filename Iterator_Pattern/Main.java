@@ -8,7 +8,7 @@ import java.util.Iterator;
  * 例子
  * 假設有兩家公司要合併，但其儲存方式不同，現在的任務是一起列出兩家公司的所有員工列表
  * 所以我們透過 Iterator 實作 next, hasNext 方法，根據不同的形態創造出對應的 Iterator
- * 
+ *
  */
 public class Main {
     public static void main(String[] args) {
